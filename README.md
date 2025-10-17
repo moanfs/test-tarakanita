@@ -49,5 +49,5 @@ Desc: flowchat yang mengambarkan peran dari setiap role yang ada.
 
 Bahasa pemrograman phyton (CLI)
 
-Hormat Saya.
+Hormat Saya.\n
 Halomoan Filipus Simarmata
