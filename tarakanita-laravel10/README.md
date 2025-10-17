@@ -20,6 +20,10 @@ cd tarakanita-laravel10
 composer install
 ```
 
+```
+npm install
+```
+
 2. setelah rename file dengan nama .evn.example menjasi .env dan konfirgurasi database
 
 ```
@@ -30,10 +34,12 @@ mv .env.example .env
 
 ```
 
-database.default.hostname = localhost
-database.default.database = tarakanita_laravel
-database.default.username = root
-database.default.password =
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=tarakanita_laravel
+DB_USERNAME=root
+DB_PASSWORD=
 
 ```
 
