@@ -8,11 +8,6 @@ Test programmer pada Yayasan Tarakanita, pada test ini dibuat menggunakan tech b
 ## Installation
 
 ```
-git clone https://github.com/moanfs/test-tarakanita/tarakanita-laravel10.git
-
-```
-
-```
 cd tarakanita-laravel10
 
 ```

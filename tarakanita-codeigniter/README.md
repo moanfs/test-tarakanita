@@ -8,11 +8,6 @@ Test programmer pada Yayasan Tarakanita, pada test ini dibuat menggunakan tech b
 ## Installation
 
 ```
-git clone https://github.com/moanfs/test-tarakanita/tarakanita-codeigniter.git
-
-```
-
-```
 cd tarakanita-codeigniter
 
 ```
@@ -60,3 +55,20 @@ php spark db:seed UserSeeder
 ```
 php spark serve
 ```
+
+## ss program
+
+Login Sebagai admin dan tidak memiliki akses untuk kelolah admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/ci4/ci4_admin.png)
+
+Login Sebagai Super admin dan memiliki akses untuk kelolah admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/ci4/ci4_superadmin.png)
+
+Halaman form edit data pelamar
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/ci4/ci4_edit_pelamar.png)
+
+Form Untuk menambah data pelamar
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/ci4/ci4_form_pelamat.png)
+
+halaman form edit data role admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/ci4/ci4_form_pelamat.png)
