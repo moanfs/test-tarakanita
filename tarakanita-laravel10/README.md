@@ -5,7 +5,7 @@ Test programmer pada Yayasan Tarakanita, pada test ini dibuat menggunakan tech b
 -   [Laravel 10](https://laravel.com/docs/10.x).
 -   [Mysql](https://www.mysql.com/).
 
-## Installation
+## Pindah direktori setelah clone repository
 
 ```
 cd tarakanita-laravel10
@@ -60,3 +60,29 @@ php artisan serve
 ```
 npm run dev
 ```
+
+## ss program
+
+Login Sebagai admin dan tidak memiliki akses untuk kelolah admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/admin.png)
+
+Login Sebagai Super admin dan memiliki akses untuk kelolah admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/petugas.png)
+
+Halaman form tambah data admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/petugas-form.png)
+
+Form Untuk edit role admin
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/petugas-edit.png)
+
+halaman table data pelamar
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/pelamar.png)
+
+halaman form tambah data pelamar
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/pelamar-form.png)
+
+halaman form edit data pelamar
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/pelamar-edit.png)
+
+Konfirmasi delete data
+![ss](https://github.com/moanfs/test-tarakanita/blob/main/image/laravel/delete.png)

@@ -4,6 +4,8 @@ Test programmer pada Yayasan Tarakanita,
 
 ## Installation
 
+lakukan clone direktory untuk menjalankan program dan ikutin langka konfirgurasi yang telah di berikan pada panduan.
+
 ```
 git clone https://github.com/moanfs/test-tarakanita.git
 
@@ -46,3 +48,6 @@ Desc: flowchat yang mengambarkan peran dari setiap role yang ada.
 [Python Pelolahan Surat](https://github.com/moanfs/test-tarakanita/tree/main/pengelolahan_surat_python).
 
 Bahasa pemrograman phyton (CLI)
+
+Hormat Saya.
+Halomoan Filipus Simarmata

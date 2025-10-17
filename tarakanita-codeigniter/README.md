@@ -5,7 +5,7 @@ Test programmer pada Yayasan Tarakanita, pada test ini dibuat menggunakan tech b
 - [Codeigniter 4](https://www.codeigniter.com/).
 - [Mysql](https://www.mysql.com/).
 
-## Installation
+## Pindah direktori setelah clone repository
 
 ```
 cd tarakanita-codeigniter
